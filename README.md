@@ -1,6 +1,6 @@
 ![img_2024122164951](https://github.com/VaysiDevelopmentCenter/Oracle/assets/151166631/bd71db49-6b9a-43cf-949f-307c3c994900)
 
-# Oracle: Unveiling the Secrets of a Superframe for AI Development
+# Oracle: Unveiling the Secrets of a Superframe for Computer Science
 
 Oracle PhaseScape is more than just software; it's a portal to a new paradigm of artificial intelligence development. Built upon the foundation of the **Hilbert's space based Aggregate-Oriented Disk Neurocognitive Network (HAODNN)**, Oracle PhaseScape empowers you to construct sophisticated AI systems that exhibit remarkable coherence and performance. But what truly sets Oracle PhaseScape apart is its unique ecosystem, meticulously designed to nurture the growth of groundbreaking AI.
 

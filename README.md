@@ -1,3 +1,4 @@
+![Picsart_24-02-28_19-55-39-901](https://github.com/VaysiDevelopmentCenter/Osiris/assets/151166631/f08eadbd-f4f7-42ab-97cf-e947631887b8)
 
 
 
@@ -55,6 +56,8 @@ Osiris PhaseScape transcends the limitations of traditional software frameworks.
 * **Mathematical and Programming Harmony:** Osiris PhaseScape seamlessly integrates complex mathematical ratios and theories with the familiar world of programming languages and computer science principles. This makes it accessible to developers of all backgrounds, fostering a truly collaborative and inclusive AI development environment.
 
 * **Platform Support:** A dedicated platform is provided to ensure seamless integration and operation of Osiris PhaseScape within your existing development environment. This eliminates compatibility issues and allows you to focus on what truly matters: building groundbreaking AI systems.
+
+
   
 # Osiris Factory IDE: Simple Access to the Most Complex Digital World 
 

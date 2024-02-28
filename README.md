@@ -21,8 +21,7 @@ Osiris PhaseScape is more than just software; it's a portal to a new paradigm of
 * **HSDTE: The Engine of Seamless Access:** The **Holographic Shock Dual-Terminal Engine (HSDTE)** acts as the gateway to the treasure trove of information stored within the Osiris PhaseScape ecosystem. It facilitates information retrieval and exploration within the neural network, allowing you to interact with and understand the inner workings of your AI system. Imagine a map and compass guiding you through the intricate labyrinth of your AI's knowledge, helping you chart new paths and uncover hidden gems. That's the value of HSDTE.
 <br><br/>
 
-
-
+![Picsart_24-02-28_19-56-18-540](https://github.com/VaysiDevelopmentCenter/Osiris/assets/151166631/730cfa73-3e4c-4e6e-9f27-8a966ff30c61)
 
 ### Beyond the Framework: A Superframe Ecosystem Named PhaseScape Awaits
 
@@ -57,7 +56,7 @@ Osiris PhaseScape transcends the limitations of traditional software frameworks.
 
 * **Platform Support:** A dedicated platform is provided to ensure seamless integration and operation of Osiris PhaseScape within your existing development environment. This eliminates compatibility issues and allows you to focus on what truly matters: building groundbreaking AI systems.
 
-
+![Picsart_24-02-28_19-56-04-376](https://github.com/VaysiDevelopmentCenter/Osiris/assets/151166631/26078621-4083-46bf-b7ac-8d9ece3f3bc0)
   
 # Osiris Factory IDE: Simple Access to the Most Complex Digital World 
 

@@ -55,6 +55,20 @@ Osiris PhaseScape transcends the limitations of traditional software frameworks.
 * **Mathematical and Programming Harmony:** Osiris PhaseScape seamlessly integrates complex mathematical ratios and theories with the familiar world of programming languages and computer science principles. This makes it accessible to developers of all backgrounds, fostering a truly collaborative and inclusive AI development environment.
 
 * **Platform Support:** A dedicated platform is provided to ensure seamless integration and operation of Osiris PhaseScape within your existing development environment. This eliminates compatibility issues and allows you to focus on what truly matters: building groundbreaking AI systems.
+  
+# Osiris Factory IDE: Simple Access to the Most Complex Digital World 
+
+
+Osiris Factory IDE is a free and open-source programming environment that allows you to create and deploy your own applications. It is a great tool for developers who want to create and deploy their own applications. Osiris Factory IDE is a great tool for developers who want to create and deploy their own applications. 
+
+**Key features of Osiris Factory IDE:**
+
+* **Support for PhaseScape development:** Osiris Factory IDE seamlessly integrates with PhaseScape, a revolutionary approach to software development that offers increased expressiveness, maintainability, flexibility, and a stronger foundation for development projects.
+* **Osiris PhaseScape visualizer:** The IDE provides a visualizer to help developers understand and debug PhaseScape code.
+* **Support for popular programming languages:** Osiris Factory IDE supports a variety of programming languages, including Python, Java, C++, FactoryScript and more.
+* **Integrated debugger:** The IDE includes a debugger to help developers identify and fix errors in their code.
+* **Version control integration:** Osiris Factory IDE integrates with popular version control systems such as Git, allowing developers to track changes to their code and collaborate with others.
+
 
 ### Unlock the Potential of Your AI Creations
 

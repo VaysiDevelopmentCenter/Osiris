@@ -26,7 +26,7 @@ Osiris PhaseScape is more than just software; it's a portal to a new paradigm of
 ### Beyond the Framework: A Superframe Ecosystem Named PhaseScape Awaits
 
 
-**PhaseScape** is a revolutionary approach by Vaysi Development Center to software development, offering a powerful alternative to traditional "Frameworks". It leverages the elegance and efficiency of mathematics sequences, providing developers with a new dimension of flexibility, control, and expressiveness.
+**PhaseScape** is a revolutionary approach by Vaysi Development Center to software development, *-while it's not a software framework-* offering a powerful alternative to traditional "Frameworks". It leverages the elegance and efficiency of mathematics sequences, providing developers with a new dimension of flexibility, control, and expressiveness.
 
 ### What is a PhaseScape?
 
@@ -55,7 +55,8 @@ Osiris PhaseScape transcends the limitations of traditional software frameworks.
 * **Mathematical and Programming Harmony:** Osiris PhaseScape seamlessly integrates complex mathematical ratios and theories with the familiar world of programming languages and computer science principles. This makes it accessible to developers of all backgrounds, fostering a truly collaborative and inclusive AI development environment.
 
 * **Platform Support:** A dedicated platform is provided to ensure seamless integration and operation of Osiris PhaseScape within your existing development environment. This eliminates compatibility issues and allows you to focus on what truly matters: building groundbreaking AI systems.
-
+<br></br>
+ 
 ![Picsart_24-02-28_19-56-04-376](https://github.com/VaysiDevelopmentCenter/Osiris/assets/151166631/26078621-4083-46bf-b7ac-8d9ece3f3bc0)
   
 # Osiris Factory IDE: Simple Access to the Most Complex Digital World 
@@ -70,6 +71,44 @@ Osiris Factory IDE is a free and open-source programming environment that allows
 * **Support for popular programming languages:** Osiris Factory IDE supports a variety of programming languages, including Python, Java, C++, FactoryScript and more.
 * **Integrated debugger:** The IDE includes a debugger to help developers identify and fix errors in their code.
 * **Version control integration:** Osiris Factory IDE integrates with popular version control systems such as Git, allowing developers to track changes to their code and collaborate with others.
+<br></br>
+
+![Picsart_24-02-28_19-55-51-592](https://github.com/VaysiDevelopmentCenter/Osiris/assets/151166631/93af6e89-323b-4837-91e6-6f976436ded4)
+
+
+## Osiris Runtime Manager: Unleashing the Power of Osiris PhaseScape
+
+The Osiris Runtime Manager is the essential companion for deploying and managing AI systems built with the Osiris PhaseScape framework. It provides a comprehensive toolkit for:
+
+* **Efficient Deployment:** Effortlessly run your trained Osiris PhaseScape models on various platforms and environments.
+* **Seamless Management:** Monitor, control, and optimize your running AI systems through a user-friendly interface.
+* **Scalability and Performance:** Scale your AI deployments effortlessly to meet your growing demands, ensuring peak performance.
+
+**Getting Started:**
+
+1. **Prerequisites:**
+    * Ensure you have a compatible Osiris PhaseScape model trained and saved.
+    * Download and install the Osiris Runtime Manager for your desired platform (Windows, Linux, macOS).
+
+2. **Running your Model:**
+    * Launch the Osiris Runtime Manager application.
+    * Navigate to the "Deploy Model" section and select your saved Osiris PhaseScape model file.
+    * Configure any necessary runtime parameters (e.g., input/output data formats).
+    * Click "Start" to begin running your AI system.
+
+3. **Managing your Model:**
+    * The Runtime Manager provides real-time monitoring of your running model's performance, resource utilization, and overall health.
+    * You can control your model by pausing, resuming, or stopping its execution through the user interface.
+    * Advanced options allow for fine-tuning performance parameters and configuration adjustments.
+
+
+**Additional Features:**
+
+* **Logging and Reporting:** Access detailed logs and reports on your model's activity, providing valuable insights for analysis and optimization.
+* **Resource Management:** Manage and optimize resource allocation for your running models, ensuring efficient utilization of hardware and software resources.
+* **Security:** The Runtime Manager incorporates robust security features to protect your sensitive AI models and data.
+
+**For further information and detailed instructions, please refer to the comprehensive Osiris Runtime Manager documentation available online.**
 
 
 ### Unlock the Potential of Your AI Creations
@@ -81,5 +120,5 @@ Osiris PhaseScape is more than just a collection of tools; it's an invitation to
 * **Develop AI that is flexible, adaptable, and continuously learns.**
 * **Interact with and understand the inner workings of your AI creations.**
 
-Start your journey today and explore the boundless possibilities that await you with Osiris PhaseScape.
+**Start your journey today and explore the boundless possibilities that await you with Osiris PhaseScape.**
 

@@ -62,7 +62,7 @@ Osiris PhaseScape transcends the limitations of traditional software frameworks.
 # Osiris Factory IDE: Simple Access to the Most Complex Digital World 
 
 
-Osiris Factory IDE is a free and open-source programming environment that allows you to create and deploy your own applications. It is a great tool for developers who want to create and deploy their own applications. Osiris Factory IDE is a great tool for developers who want to create and deploy their own applications. 
+Osiris Factory IDE is a free and open-source programming environment that allows you to create and deploy your own applications. It is a great tool for developers who want to create and deploy their super projects.
 
 **Key features of Osiris Factory IDE:**
 
